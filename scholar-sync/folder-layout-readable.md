@@ -2,7 +2,7 @@
 
 이 문서는 **`folder-state.json`(또는 **같은 내용의** `scholar-folder-state.json`)**과 같은 배정 정보를 표로 풀어 씁니다. **동기화 복원**은 (1) `folder-state.json` (2) `scholar-folder-state.json` (3) 과거 버전 호환으로 **`scholar-folder-state-YYYY-....json`(이름순 최신)** (4) 위가 없으면 **본 문서 `## 노트북 → 폴더 배정` 표**로 복구합니다.
 
-- 내보낸 시각: `2026-10-15T07:48:00.301Z`
+- 내보낸 시각: `2026-10-15T07:48:03.929Z`
 - 노트북 목록 스냅샷: *(없음 — NotebookLM 목록 탭에서 한 번 열어 주면 제목이 채워집니다.)*
 
 ## 폴더
